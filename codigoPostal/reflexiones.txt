@@ -1,0 +1,2 @@
+Dificultades: aprender como obtener los datos de un archivo csv
+Tiempo: 1.5 horas
